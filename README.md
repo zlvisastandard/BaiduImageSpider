@@ -20,3 +20,6 @@ python index.py
 
 效果图：
 ![效果图](http://www.jwlchina.cn/uploads/python%E5%9B%BE%E7%89%87%E7%88%AC%E8%99%AB%E6%88%AA%E5%9B%BE.png)
+
+
+ggogogoog
